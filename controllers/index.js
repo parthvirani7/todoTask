@@ -1,0 +1,1 @@
+module.exports.crudController = require("./crud.controller");

@@ -1,0 +1,1 @@
+module.exports.crudSchema = require("./crud.model")
